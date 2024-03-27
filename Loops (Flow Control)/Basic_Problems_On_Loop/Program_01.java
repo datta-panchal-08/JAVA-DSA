@@ -1,4 +1,3 @@
-package Basic_Problems_On_Loop;
 
 import java.util.Scanner;
 
